@@ -248,14 +248,7 @@ def choose_filter():
 admin_login()
 show_guides()
 functions()
-def menu_filters():
-    print("Menu Filters:")
-    print("a. Alle man/vrouw gidsen")
-    print("b. Alle gidsen die stad x gidsen")
-    print("c. Alle gidsen met een hoger loon dan x")
-    print("d. Alle man of vrouw die een stad gidse")
-
-    choice = input("Kies een optie (a, b, c, d) of typ 'stop' om te stoppen: ").lower()"""
+"""
 
 """word_list = ["Knight", "Bishop", "Queen", "Pawn"]
 encrypted_dict = {}
